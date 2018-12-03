@@ -1,0 +1,9 @@
+keyutils-libs-devel libcom_err-devel libselinux-devel  libverto-devel
+python-simplejson  source-highlight  asciidoc saslwrapper  saslwrapper-de    vel libyaml-devel krb5-devel openssl-devel
+
+#remove 'mariadb mariadb-server' first
+mysql-community-devel  mysql-community-server  mysql-community-libs  mysq    l-community-client  mysql-community-common
+
+ant wget gcc gcc-c++ krb5-devel cyrus-sasl-devel cyrus-sasl-gssapi sqlite-    devel libxml2-devel libxslt-devel openldap-devel python-devel   python-setuptools readlin    e-devel  bzip2-devel libcurl-devel graphviz docbook-style-xsl boost gmp-devel libyaml cyr    us-sasl* libffi-devel openssl-libs
+maven
+
